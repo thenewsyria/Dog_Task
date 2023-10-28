@@ -1,16 +1,21 @@
-# dog_task
+Dog Dashboard
 
-A new Flutter project.
+This project is a Flutter app that allows users to fetch and display images of dogs from the Dog CEO API. The app has the following features:
 
-## Getting Started
+Users can fetch a random dog by breed, all dogs of a particular breed, or a random dog by breed and sub-breed.
+The app displays the dog images in a list or grid view.
+Users can click on a dog image to view it in full screen.
+The app is built using the following technologies:
 
-This project is a starting point for a Flutter application.
+Flutter
+Provider
+Dog CEO API
+You can use this app to learn about different dog breeds and to see cute pictures of dogs.
 
-A few resources to get you started if this is your first Flutter project:
+Here are some ideas for how you can improve the app:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add the ability to save and share dog images.
+Add a search function so that users can easily find specific dog breeds.
+Add the ability to filter the dog images by breed, size, or color.
+Add a quiz feature where users can try to identify different dog breeds.
+I hope this is helpful!
